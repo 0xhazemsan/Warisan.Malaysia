@@ -1,8 +1,8 @@
-# 📌 Warisan Malaysia - Digital Heritage Platform
+#  Warisan Malaysia - Digital Heritage Platform
 
 **A comprehensive web application showcasing Malaysia's rich cultural heritage through interactive digital experiences, supporting Visit Malaysia 2026 campaign.**
 
-## 🧠 Project Description
+##  Project Description
 
 ### Problem Statement
 Malaysia's vibrant cultural heritage—spanning ancient traditions, historic sites, indigenous crafts, languages, and folklore—is a national treasure. Yet, in the digital era, much of this legacy risks being overlooked or forgotten. As global tourism trends shift and attention spans shorten, it's crucial to find innovative ways to preserve and share our unique identity.
@@ -15,33 +15,31 @@ With Visit Malaysia 2026 approaching, we have a unique opportunity to both attra
 
 Our project directly addresses this challenge by building digital solutions that preserve, promote, and modernize Malaysian culture and tourism through interactive experiences, digital archiving, and immersive storytelling.
 
-## 👥 Team Members
+##  Team Members
 
 **Group 24**
-- **Hazem Algharem** - Full Stack Development & UI/UX Design
-- **Team Member 2** - [Add name when available]
-- **Team Member 3** - [Add name when available]
+- **Hazem Algharem** 
+- **Abdulaziz Almuntaser** 
+- **Ashraf Algunaid** 
+- **Abdulrahman Algharem** 
+- **Emadeldin Yousef** 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend Technologies
 - **React 18.3.1** - Modern JavaScript library for building user interfaces
 - **TypeScript 5.5.3** - Type-safe JavaScript for better development experience
-- **Vite 5.4.2** - Fast build tool and development server
 - **Tailwind CSS 3.4.1** - Utility-first CSS framework for rapid UI development
-- **Lucide React 0.344.0** - Beautiful & consistent icon toolkit
 
 ### Development Tools
 - **ESLint 9.9.1** - Code linting and quality assurance
 - **PostCSS 8.4.35** - CSS processing and optimization
-- **Autoprefixer 10.4.18** - Automatic vendor prefixing
 
 ### Mobile App Conversion
 - **Capacitor** - Cross-platform runtime for wrapping web apps as native mobile applications
 - **Android Studio** - Native Android development environment for building APK files
-- **Cordova Plugins** - Native device feature integration
 
-## 📱 Mobile App Development
+## Mobile App Development
 
 (the file of the Mobile app for androids only)
 <img width="132" alt="{2D01E2D8-94E0-4F99-9827-60517982BC8C}" src="https://github.com/user-attachments/assets/f867b38f-6b7d-4764-9cf5-133607307501" />
@@ -69,7 +67,7 @@ npx cap copy
 - **Offline Capability**: Works without internet connection
 - **App Store Ready**: Can be distributed through Google Play Store
 
-## ⚙️ Core Features / Functionality
+## Core Features / Functionality
 
 ### 1. Interactive Heritage Site Explorer
 - **Comprehensive Site Database**: 13+ cultural sites across Malaysia including UNESCO World Heritage Sites
@@ -96,7 +94,7 @@ npx cap copy
 - **Smooth Animations**: Hover effects, transitions, and micro-interactions
 - **Accessibility Features**: Proper semantic HTML and keyboard navigation support
 
-## 🚧 Challenges and Development Approach
+## Challenges and Development Approach
 
 ### Technical Challenges Faced
 1. **Complex State Management**: Managing multiple interconnected states (user authentication, favorites, comments, site filtering)
@@ -119,7 +117,7 @@ npx cap copy
 - **Accessibility Considerations**: Implemented proper semantic structure and keyboard navigation
 - **Capacitor Integration**: Leveraged modern cross-platform tools for mobile deployment
 
-## 📸 Usage Instructions / Demo
+## Usage Instructions / Demo
 
 ### Live Demo
 Your application is running locally at: `http://localhost:5173`
@@ -176,21 +174,14 @@ Your application is running locally at: `http://localhost:5173`
 - **Dark Mode**: Toggle between light and dark themes
 - **Mobile App**: Native Android application with full functionality
 
-## 🤖 AI Tools Used
+## AI Tools Used
 
 ### Development Assistance
-- **ChatGPT**: Code assistance for implementing complex React components and state management
-- **GitHub Copilot**: Real-time code suggestions and autocompletion during development
-- **AI-Powered Code Review**: Automated code quality checks and best practices suggestions
-
-### Specific AI Contributions
-- **UI/UX Design Guidance**: AI-assisted design decisions for optimal user experience
-- **Code Optimization**: AI suggestions for performance improvements and code refactoring
-- **Documentation**: AI-assisted README creation and code commenting
-- **Problem Solving**: AI consultation for technical challenges and debugging
+- **ChatGPT**: Utilized to help draft and refine the README.md documentation, ensuring clear and professional presentation of the project.
+- **Cursor (AI-Powered IDE)**: Assisted in implementing core features such as user sign-up and login, and provided real-time code suggestions and improvements for building components in React.
 - **Mobile Conversion**: AI guidance for Capacitor integration and native app development
 
-## 🎯 Impact & Future Enhancements
+##  Impact & Future Enhancements
 
 ### Current Impact
 - **Digital Preservation**: 13+ cultural sites digitally documented and accessible
@@ -207,12 +198,5 @@ Your application is running locally at: `http://localhost:5173`
 - **Analytics Dashboard**: Track user engagement and popular content
 - **Offline Mode**: Enhanced offline capabilities for mobile users
 
-## 📱 Screenshots
-
-*[Screenshots would be added here showing the application interface]*
-
----
 
 **Built with ❤️ for Malaysia's Cultural Heritage**
-
-*Supporting Visit Malaysia 2026 - Preserving our past, inspiring our future.* 
