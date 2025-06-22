@@ -43,6 +43,10 @@ Our project directly addresses this challenge by building digital solutions that
 
 ## 📱 Mobile App Development
 
+(the file of the Mobile app for androids only)
+<img width="132" alt="{2D01E2D8-94E0-4F99-9827-60517982BC8C}" src="https://github.com/user-attachments/assets/f867b38f-6b7d-4764-9cf5-133607307501" />
+
+
 ### Cross-Platform Conversion
 Our web application has been successfully converted into a native Android mobile app using **Capacitor**, a modern cross-platform runtime that wraps web applications in native containers.
 
