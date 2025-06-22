@@ -119,6 +119,7 @@ npx cap copy
 
 ## Usage Instructions / Demo
 
+
 ### Live Demo
 Your application is running locally at: `http://localhost:5173`
 
